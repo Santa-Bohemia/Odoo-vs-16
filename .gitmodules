@@ -32,3 +32,8 @@
 	path = ingadhoc/sale
 	url = git@github.com:ingadhoc/sale.git
 	branch = 16.0
+
+[submodule "ingadhoc/website"]
+	path = ingadhoc/website
+	url = git@github.com:ingadhoc/website.git
+	branch = 16.0

@@ -37,3 +37,8 @@
 	path = ingadhoc/website
 	url = git@github.com:ingadhoc/website.git
 	branch = 16.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 16.0

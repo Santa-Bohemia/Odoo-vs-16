@@ -33,11 +33,6 @@
 	url = git@github.com:ingadhoc/sale.git
 	branch = 16.0
 
-[submodule "ingadhoc/website"]
-	path = ingadhoc/website
-	url = git@github.com:ingadhoc/website.git
-	branch = 16.0
-
 [submodule "OCA/web"]
 	path = OCA/web
 	url = git@github.com:OCA/web.git

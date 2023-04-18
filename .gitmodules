@@ -60,3 +60,7 @@
 	path = odoo-mastercore/stock_addons
 	url = git@github.com:odoo-mastercore/stock_addons.git
 	branch = 16.0
+[submodule "odoo-mastercore/third_s_app"]
+	path = odoo-mastercore/third_s_app
+	url = git@github.com:odoo-mastercore/third_s_apps.git
+	branch = 16.0

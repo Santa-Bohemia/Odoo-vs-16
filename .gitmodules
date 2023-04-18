@@ -52,3 +52,7 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 16.0
+[submodule "odoo-mastercore/odoo-argentina-extension"]
+	path = odoo-mastercore/odoo-argentina-extension
+	url = git@github.com:odoo-mastercore/odoo-argentina-extension.git
+	branch = 16.0

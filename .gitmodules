@@ -56,3 +56,7 @@
 	path = odoo-mastercore/odoo-argentina-extension
 	url = git@github.com:odoo-mastercore/odoo-argentina-extension.git
 	branch = 16.0
+[submodule "odoo-mastercore/stock_addons"]
+	path = odoo-mastercore/stock_addons
+	url = git@github.com:odoo-mastercore/stock_addons.git
+	branch = 16.0

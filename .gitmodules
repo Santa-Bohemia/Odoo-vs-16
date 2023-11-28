@@ -69,3 +69,6 @@
 	path = odoo-mastercore/santabohemia_addons
 	url = git@github.com:odoo-mastercore/santabohemia_addons.git
 	branch = 16.0
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git

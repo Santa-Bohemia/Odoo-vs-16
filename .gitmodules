@@ -72,3 +72,8 @@
 [submodule "OCA/stock-logistics-warehouse"]
 	path = OCA/stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
+
+[submodule "odoo-mastercore/odoo_pos"]
+	path = odoo-mastercore/odoo_pos
+	url = git@github.com:odoo-mastercore/odoo_pos.git
+	branch = 16.0

@@ -77,3 +77,8 @@
 	path = odoo-mastercore/odoo_pos
 	url = git@github.com:odoo-mastercore/odoo_pos.git
 	branch = 16.0
+
+[submodule "odoo-mastercore/ecommerce_addons"]
+	path = odoo-mastercore/ecommerce_addons
+	url = git@github.com:odoo-mastercore/ecommerce_addons.git
+	branch = 16.0

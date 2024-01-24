@@ -87,3 +87,8 @@
 	path = odoo-mastercore/product_addons
 	url = git@github.com:odoo-mastercore/product_addons.git
 	branch = 16.0
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 16.0

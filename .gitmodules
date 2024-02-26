@@ -102,3 +102,8 @@
 	path = OCA/stock-logistics-availability
 	url = git@github.com:OCA/stock-logistics-availability.git
 	branch = 16.0
+
+[submodule "OCA/pos"]
+	path = OCA/pos
+	url = git@github.com:OCA/pos.git
+	branch = 16.0

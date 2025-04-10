@@ -58,11 +58,11 @@
 	branch = 16.0
 [submodule "odoo-mastercore/stock_addons"]
 	path = odoo-mastercore/stock_addons
-	url = git@github.com:odoo-mastercore/stock_addons.git
+	url = git@github.com:odoo-mastercore/sb_stock_addons.git
 	branch = 16.0
 [submodule "odoo-mastercore/third_s_app"]
 	path = odoo-mastercore/third_s_app
-	url = git@github.com:odoo-mastercore/third_s_apps.git
+	url = git@github.com:odoo-mastercore/sb_third_s_app.git
 	branch = 16.0
 
 [submodule "odoo-mastercore/santabohemia_addons"]
@@ -75,7 +75,7 @@
 
 [submodule "odoo-mastercore/odoo_pos"]
 	path = odoo-mastercore/odoo_pos
-	url = git@github.com:odoo-mastercore/odoo_pos.git
+	url = git@github.com:odoo-mastercore/sb_odoo_pos.git
 	branch = 16.0
 
 [submodule "odoo-mastercore/ecommerce_addons"]
@@ -85,7 +85,7 @@
 
 [submodule "odoo-mastercore/product_addons"]
 	path = odoo-mastercore/product_addons
-	url = git@github.com:odoo-mastercore/product_addons.git
+	url = git@github.com:odoo-mastercore/sb_product_addons.git
 	branch = 16.0
 
 [submodule "OCA/account-invoicing"]
@@ -120,5 +120,5 @@
 
 [submodule "odoo-mastercore/payment_gateways"]
 	path = odoo-mastercore/payment_gateways
-	url = git@github.com:odoo-mastercore/payment_gateways.git
+	url = git@github.com:odoo-mastercore/sb_payment_gateways.git
 	branch = 16.0

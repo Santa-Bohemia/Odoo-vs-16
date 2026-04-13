@@ -1,124 +1,125 @@
 [submodule "ingadhoc/odoo-argentina"]
 	path = ingadhoc/odoo-argentina
-	url = git@github.com:ingadhoc/odoo-argentina.git
+	url = https://github.com/ingadhoc/odoo-argentina.git
 	branch = 16.0
 
 [submodule "ingadhoc/odoo-argentina-ee"]
 	path = ingadhoc/odoo-argentina-ee
-	url = git@github.com:ingadhoc/odoo-argentina-ee.git
+	url = https://github.com/ingadhoc/odoo-argentina-ee.git
 	branch = 16.0
 
 [submodule "ingadhoc/account-payment"]
 	path = ingadhoc/account-payment
-	url = git@github.com:ingadhoc/account-payment.git
+	url = https://github.com/ingadhoc/account-payment.git
 	branch = 16.0
 
 [submodule "ingadhoc/account-financial-tools"]
 	path = ingadhoc/account-financial-tools
-	url = git@github.com:ingadhoc/account-financial-tools.git
+	url = https://github.com/ingadhoc/account-financial-tools.git
 	branch = 16.0
 
 [submodule "ingadhoc/argentina-sale"]
 	path = ingadhoc/argentina-sale
-	url = git@github.com:ingadhoc/argentina-sale.git
+	url = https://github.com/ingadhoc/argentina-sale.git
 	branch = 16.0
 
 [submodule "ingadhoc/stock"]
 	path = ingadhoc/stock
-	url = git@github.com:ingadhoc/stock.git
+	url = https://github.com/ingadhoc/stock.git
 	branch = 16.0
 
 [submodule "ingadhoc/sale"]
 	path = ingadhoc/sale
-	url = git@github.com:ingadhoc/sale.git
+	url = https://github.com/ingadhoc/sale.git
 	branch = 16.0
 
 [submodule "OCA/web"]
 	path = OCA/web
-	url = git@github.com:OCA/web.git
+	url = https://github.com/OCA/web.git
 	branch = 16.0
 
 [submodule "OCA/stock-logistics-workflow"]
 	path = OCA/stock-logistics-workflow
-	url = git@github.com:OCA/stock-logistics-workflow.git
+	url = https://github.com/OCA/stock-logistics-workflow.git
 	branch = 16.0
 
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
-	url = git@github.com:OCA/account-financial-tools.git
+	url = https://github.com/OCA/account-financial-tools.git
 	branch = 16.0
 
 [submodule "OCA/sale-workflow"]
 	path = OCA/sale-workflow
-	url = git@github.com:OCA/sale-workflow.git
+	url = https://github.com/OCA/sale-workflow.git
 	branch = 16.0
 [submodule "odoo-mastercore/odoo-argentina-extension"]
 	path = odoo-mastercore/odoo-argentina-extension
-	url = git@github.com:odoo-mastercore/odoo-argentina-extension.git
+	url = https://github.com/odoo-mastercore/odoo-argentina-extension.git
 	branch = 16.0
 [submodule "odoo-mastercore/stock_addons"]
 	path = odoo-mastercore/stock_addons
-	url = git@github.com:odoo-mastercore/sb_stock_addons.git
+	url = https://github.com/odoo-mastercore/sb_stock_addons.git
 	branch = 16.0
 [submodule "odoo-mastercore/third_s_app"]
 	path = odoo-mastercore/third_s_app
-	url = git@github.com:odoo-mastercore/sb_third_s_app.git
+	url = https://github.com/odoo-mastercore/sb_third_s_app.git
 	branch = 16.0
 
 [submodule "odoo-mastercore/santabohemia_addons"]
 	path = odoo-mastercore/santabohemia_addons
-	url = git@github.com:odoo-mastercore/santabohemia_addons.git
+	url = https://github.com/odoo-mastercore/santabohemia_addons.git
 	branch = 16.0
 [submodule "OCA/stock-logistics-warehouse"]
 	path = OCA/stock-logistics-warehouse
-	url = git@github.com:OCA/stock-logistics-warehouse.git
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = 16.0
 
 [submodule "odoo-mastercore/odoo_pos"]
 	path = odoo-mastercore/odoo_pos
-	url = git@github.com:odoo-mastercore/sb_odoo_pos.git
+	url = https://github.com/odoo-mastercore/sb_odoo_pos.git
 	branch = 16.0
 
 [submodule "odoo-mastercore/ecommerce_addons"]
 	path = odoo-mastercore/ecommerce_addons
-	url = git@github.com:odoo-mastercore/ecommerce_addons.git
+	url = https://github.com/odoo-mastercore/ecommerce_addons.git
 	branch = 16.0
 
 [submodule "odoo-mastercore/product_addons"]
 	path = odoo-mastercore/product_addons
-	url = git@github.com:odoo-mastercore/sb_product_addons.git
+	url = https://github.com/odoo-mastercore/sb_product_addons.git
 	branch = 16.0
 
 [submodule "OCA/account-invoicing"]
 	path = OCA/account-invoicing
-	url = git@github.com:OCA/account-invoicing.git
+	url = https://github.com/OCA/account-invoicing.git
 	branch = 16.0
 
 [submodule "OCA/sale-promotion"]
 	path = OCA/sale-promotion
-	url = git@github.com:OCA/sale-promotion.git
+	url = https://github.com/OCA/sale-promotion.git
 	branch = 16.0
 
 [submodule "OCA/stock-logistics-availability"]
 	path = OCA/stock-logistics-availability
-	url = git@github.com:OCA/stock-logistics-availability.git
+	url = https://github.com/OCA/stock-logistics-availability.git
 	branch = 16.0
 
 [submodule "OCA/pos"]
 	path = OCA/pos
-	url = git@github.com:OCA/pos.git
+	url = https://github.com/OCA/pos.git
 	branch = 16.0
 
 [submodule "OCA/purchase-workflow"]
 	path = OCA/purchase-workflow
-	url = git@github.com:OCA/purchase-workflow.git
+	url = https://github.com/OCA/purchase-workflow.git
 	branch = 16.0
 
 [submodule "OCA/commission"]
 	path = OCA/commission
-	url = git@github.com:OCA/commission.git
+	url = https://github.com/OCA/commission.git
 	branch = 16.0
 
 [submodule "odoo-mastercore/payment_gateways"]
 	path = odoo-mastercore/payment_gateways
-	url = git@github.com:odoo-mastercore/sb_payment_gateways.git
+	url = https://github.com/odoo-mastercore/sb_payment_gateways.git
 	branch = 16.0
